@@ -1,0 +1,29 @@
+[
+  {
+    "name": "FATİH",
+    "surname": "KORKUSUZ",
+    "role": "YONETICI",
+    "saat": 160
+
+  },
+  {
+    "name": "FEYYAZ",
+    "surname": "KARA",
+    "role": "MEMUR",
+    "saat": 148
+
+  },
+  {
+    "name": "KENAN",
+    "surname": "OKUMUŞ",
+    "role": "MEMUR",
+    "saat": 199
+
+  },
+  {
+    "name": "ATİLLA",
+    "surname": "KOÇ",
+    "role": "YONETICI",
+    "saat": 155
+  }
+]

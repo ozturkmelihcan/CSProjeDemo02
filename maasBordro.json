@@ -1,0 +1,42 @@
+{
+  "bordro": "MARCH 2024",
+  "personel": [
+    {
+      "isim": "FATİH",
+      "soyisim": "KORKUSUZ",
+      "odemeDetaylari": {
+        "anaOdeme": 80240.0,
+        "bonus": 3000,
+        "toplamOdeme": 83240.0
+      }
+    },
+    {
+      "isim": "FEYYAZ",
+      "soyisim": "KARA",
+      "odemeDetaylari": {
+        "anaOdeme": 74000.0,
+        "mesaj : ": "150 saatten az çalışmıştır.",
+        "bonus": 3000,
+        "toplamOdeme": 77000.0
+      }
+    },
+    {
+      "isim": "KENAN",
+      "soyisim": "OKUMUŞ",
+      "odemeDetaylari": {
+        "anaOdeme": 11400.0,
+        "bonus": 3000,
+        "toplamOdeme": 14400.0
+      }
+    },
+    {
+      "isim": "ATİLLA",
+      "soyisim": "KOÇ",
+      "odemeDetaylari": {
+        "anaOdeme": 77732.5,
+        "bonus": 3000,
+        "toplamOdeme": 80732.5
+      }
+    }
+  ]
+}
